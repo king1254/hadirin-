@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746843300674",
+    "project_id": "hadirin-1def4",
+    "storage_bucket": "hadirin-1def4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746843300674:android:4525f04c979d7bf501dedb",
+        "android_client_info": {
+          "package_name": "com.hadirin.tk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746843300674-ks4qtef2039vaqhprvml1jamjkdkebs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDcDW1Kj6qsMdFUpv9JrUuIHhZKytOF4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746843300674-ks4qtef2039vaqhprvml1jamjkdkebs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

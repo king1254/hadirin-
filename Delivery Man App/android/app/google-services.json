@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259009907512",
+    "project_id": "hadirindeliery",
+    "storage_bucket": "hadirindeliery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259009907512:android:f1ff17de660a1421ce8fcd",
+        "android_client_info": {
+          "package_name": "com.hadirin_delivery.tk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259009907512-dec9lb1cge1hriv7ssh08tvhonad4607.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8HAVt7D_6Th8FIlqRJPoryt-ad3MEkA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259009907512-dec9lb1cge1hriv7ssh08tvhonad4607.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
